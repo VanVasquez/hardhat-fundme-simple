@@ -1,10 +1,11 @@
 node_modules
 .env
-yarn.lock
 coverage
 coverage.json
 typechain
+yarn.lock
+deployments
+
 #Hardhat files
 cache
 artifacts
-deployments
